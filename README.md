@@ -2,11 +2,11 @@
 
 ### Hi there 👋 Welcome to my Profile
 
-- 🌱 I’m currently earning a Masters degree in Mechanical and Aerospace Engineering with a focus on Robotics and Control Systems
+- 🌱 I recently earned a Masters degree in Mechanical and Aerospace Engineering with a focus on Robotics and Control Systems from Princeton University and am working as a software engineer at Lockheed Martin
 
 ### My Personal Website can be found at [https://ofekperes.github.io/Portfolio/](https://ofekperes.github.io/Portfolio/)
 
-### 🤖 One of my Robotics and Controls Projects can be found at [https://ofekperes.github.io/controls-visualization/](https://ofekperes.github.io/controls-visualization/)
+### 🤖 Check out my Robotics and Controls visual simulation sandbox at [https://ofekperes.github.io/controls-visualization/](https://ofekperes.github.io/controls-visualization/)
 
 ## 🛠️ My favorite tools
 
